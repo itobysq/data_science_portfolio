@@ -1,6 +1,6 @@
 # data_science_portfolio
 A public portfolio to show off data science work that I've done
-I like using Python Inotebook when I work. If you don't use this tool, 
+I like using IPython Notebook when I work. If you don't use this tool, 
 you can still view my projects via the following links:
 
 Solar_Panel_Degradation_Modeling.ipynb
